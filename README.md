@@ -29,4 +29,4 @@ formatação do que foi anexado na atividade do Classroom, que no caso utilizou 
  <li>Digite "make" -> para compilar</li>
  <li> "./vm address.txt fifo" ou "./vm address.txt lru"</li>
 </ol><br>
-<i>Dentro de "test_cases.rar" é possível encontrar mais arquivos address.txt, e seus respectivos arquivos os quais representam a saída desejada</i>
+<i>Dentro de "test_cases.rar" é possível encontrar diferentes address.txt, e seus respectivos arquivos os quais representam a saída desejada</i>
