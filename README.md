@@ -1,4 +1,4 @@
-##Virtual Memory Manager
+## Virtual Memory Manager
 
 <h3>Do que se trata o projeto?</h3>
 
@@ -24,7 +24,9 @@ formatação do que foi anexado na atividade do Classroom, que no caso utilizou 
 
 
 <h3>Como Utilizar?</h3>
-1. Dentro diretório do projeto, abra um terminal linux
-2. Digite "make" -> para compilar
-3. "./vm address.txt fifo" ou "./vm address.txt lru" 
+<ol>
+ <li>Dentro diretório do projeto, abra um terminal linux</li>
+ <li>Digite "make" -> para compilar</li>
+ <li> "./vm address.txt fifo" ou "./vm address.txt lru"</li>
+</ol><br>
 <i>Dentro de "test_cases.rar" é possível encontrar mais arquivos address.txt, e seus respectivos arquivos os quais representam a saída desejada</i>
