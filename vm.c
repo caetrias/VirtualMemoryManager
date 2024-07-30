@@ -168,11 +168,11 @@ int main(int argc, char **argv)
 }
 
 int getPageNumber(int virtualAddress) {
-    return (virtualAddress >> 8) & 0xFF; //ME TROQUE
+    return (virtualAddress >> 8) & 0xFF;
 }
 
 int getOffset(int virtualAddress) {
-    return virtualAddress & 0xFF; //ME TROQUE
+    return virtualAddress & 0xFF; 
 } 
 
 int isInTLB(TLB tlb[], PageTable pageTable[], int pageNumber, int *frame, int *indexTLB, int *tlbHit){
